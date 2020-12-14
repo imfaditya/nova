@@ -1,0 +1,24 @@
+- Font : https://www.fontsquirrel.com/fonts/muli
+- logo.svg : membuat sendiri dengan Adobe XD
+- 5237.svg : https://www.freepik.com/free-vector/employees-meeting-office-kitchen-drinking-coffee_7732610.htm#page=1&query=company&position=13
+- 5469.svg : https://www.freepik.com/free-vector/company-employees-sharing-thoughts-ideas_8270975.htm#page=4&position=6
+- animation.svg : membuat sendiri dengan Adobe XD
+- branding.svg : membuat sendiri dengan Adobe XD
+- developement.svg : membuat sendiri dengan Adobe XD
+- illustration.svg : membuat sendiri dengan Adobe XD
+- onlineclass.svg : membuat sendiri dengan Adobe XD
+- uiux.svg : membuat sendiri dengan Adobe XD
+- project1.jpg : https://dribbble.com/shots/14311334-Free-ID-Card-Mockup
+- project2.png : https://dribbble.com/shots/6426243/attachments/6426243-iPhone-XS-Long-Scroll-Mockup?mode=media
+- project3.png : https://cdn.dribbble.com/users/2064121/screenshots/11700468/media/c90f0ceb1dc61140a88b3e3cd47f417f.png
+- project4.jpg : https://cdn.dribbble.com/users/1622978/screenshots/14529756/media/4c1c2b54373cb98f04cde835fa3580bf.jpg
+- orang1.jpg : https://unsplash.com/photos/7YVZYZeITc8
+- orang2.jpg : https://unsplash.com/photos/Z_bTArFy6ks
+- orang3.jpg : https://unsplash.com/photos/kMJp7620W6U
+- orang4.jpg : https://images.unsplash.com/photo-1519895609939-d2a6491c1196?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=roman-akhmerov-Js6Hwobewi8-unsplash.jpg
+- icon-location.svg : https://hannahshiels.github.io/front-end-mentor/fylo-dark-theme-landing-page-master/images/icon-location.svg
+- icon-phone.svg : https://hannahshiels.github.io/front-end-mentor/fylo-dark-theme-landing-page-master/images/icon-phone.svg
+- icon-email.svg : https://hannahshiels.github.io/front-end-mentor/fylo-dark-theme-landing-page-master/images/icon-email.svg
+- instagram.png : https://www.flaticon.com/free-icon/instagram_1384015 dirubah warna menggunakan https://iconscout.com/icon-editor dan diconvert menjadi png
+- whatsapp.png : https://www.flaticon.com/free-icon/whatsapp_1384007 dirubah warna menggunakan https://iconscout.com/icon-editor dan diconvert menjadi png
+- youtube.png : https://www.flaticon.com/free-icon/youtube_1384012 dirubah warna menggunakan https://iconscout.com/icon-editor dan diconvert menjadi png
